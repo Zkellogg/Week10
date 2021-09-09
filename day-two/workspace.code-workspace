@@ -1,0 +1,59 @@
+{
+  "folders": [
+	{
+		"name": "hello-router",
+		"path": "../../../Downloads/hello-router"
+	},
+	{
+		"name": "hello-server-side-pages",
+		"path": "../../../Downloads/hello-server-side-pages"
+	},
+	{
+		"name": "session-middleware",
+		"path": "../../../Downloads/session-middleware"
+	},
+	{
+		"name": "intro-sql-pgpromise-3",
+		"path": "../../../Downloads/intro-sql-pgpromise-3"
+	},
+	{
+		"name": "intro-sql-pgpromise 2",
+		"path": "../../../Downloads/intro-sql-pgpromise 2"
+	},
+	{
+		"name": "intro-seq",
+		"path": "../../../Downloads/intro-seq"
+	},
+	{
+		"name": "prisma-test",
+		"path": "../../prisma-test"
+	},
+	{
+		"name": "Week8",
+		"path": "../../Week8"
+	},
+	{
+		"name": "nuddge-app",
+		"path": "../../nuddge-app"
+	},
+	{
+		"name": "Nudge-app-backtrack",
+		"path": "../../Nudge-app-backtrack"
+	},
+	{
+		"name": "hello-react",
+		"path": "../../../Downloads/hello-react"
+	},
+	{
+		"name": "hello-react 2",
+		"path": "../../../Downloads/hello-react 2"
+	},
+	{
+		"name": "day-two",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "nuddge-app"
+  }
+}
