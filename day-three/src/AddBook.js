@@ -1,4 +1,5 @@
 import { Component } from "react";
+import { NavLink } from "react-router-dom";
 
 class AddBookPage extends Component {
   constructor() {
@@ -44,6 +45,7 @@ class AddBookPage extends Component {
     return (
       <div>
         <h1>Add Book Page</h1>
+        <NavLink to="/">Home</NavLink>
         <input
           type="text"
           name="bookTitle"

@@ -15,6 +15,12 @@ class Header extends Component {
         <NavLink to="/">
           <div>View All Books</div>
         </NavLink>
+        <NavLink to="/login">
+          <div>Login</div>
+        </NavLink>
+        <NavLink to="/signup">
+          <div>Sign Up</div>
+        </NavLink>
       </div>
     );
   }

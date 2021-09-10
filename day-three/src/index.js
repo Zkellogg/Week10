@@ -6,6 +6,9 @@ import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import AddBook from "./AddBook";
 import ViewBooks from "./ViewBooks";
+import Activity from "./Activity";
+import LoginPage from "./Login";
+import SignUp from "./SignUp";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -14,6 +17,9 @@ ReactDOM.render(
         <Route exact path="/" component={App} />
         <Route path="/add-book" component={AddBook} />
         <Route path="/books" component={ViewBooks} />
+        <Route path="/activity" component={Activity} />
+        <Route path="/Login" component={LoginPage} />
+        <Route path="/SignUp" component={SignUp} />
       </Switch>
     </BrowserRouter>
   </React.StrictMode>,
